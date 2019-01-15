@@ -3,7 +3,7 @@
 
 [![Youtube video](youtube_thumbnail.jpg)](https://youtu.be/Ug_d_U1UxsA)
 
-The goal of this project is to write a software pipeline to identify the lane boundaries in a video, but the main output or product we want you to create is a detailed writeup of the project.  Check out the [writeup template](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own [writeup](writeup.md).
+The goal of this project is to write a software pipeline to identify the lane boundaries in a video, but the main output or product we want you to create is a detailed writeup of the project.
 
 For more information on challenges this project accomplished, please visit the [writeup](writeup.md).
 
